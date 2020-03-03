@@ -1,4 +1,4 @@
-## How to use the downloaded files
+## How to run the project
 
-Run `npm install` in the extracted folder <br>
-Run `npm start` to view the project
+Run `npm install` in the root folder <br>
+Run `npm start` to run the project
